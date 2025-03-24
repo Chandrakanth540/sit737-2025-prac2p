@@ -17,7 +17,7 @@ Ensure you have **Node.js** installed on your system.
 1. Clone this repository or copy the project files.
 2. Navigate to the project directory.
    ```sh
-   cd task2.1p
+   cd sit737-2025-prac2p
    ```
 3. Install dependencies:
    ```sh
